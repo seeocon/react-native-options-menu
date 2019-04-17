@@ -1,7 +1,9 @@
-# react-native-options-menu
+# react-native-options-menu FORK
 A native looking options dialog for IOS, and Android and Web.
 
-To Download, run: yarn add react-native-options-menu, or npm install -s react-native-options-menu.
+#### Since this hasn't been pulled by the author yet, you can just copy the index file into your project and call it like you would with any other component.
+
+#### You can rename cancel to anything you want, just make sure if you want a cancel like feature to keep it as the last element in the options prop array.
 
 Usage example: 
 
